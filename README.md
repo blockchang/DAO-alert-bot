@@ -1,7 +1,9 @@
 
 # DAO Governance Alert Bot 🗳
 
-This Telegram bot tracks and alerts DAO members about new proposals from a given **Snapshot space**. It sends updates directly to your Telegram channel, ensuring no one misses important governance events. Designed to make **decentralized governance more accessible**, it simplifies participation by keeping everyone in the loop, whether proposals are upcoming, active, or closed.
+This bot is designed to keep DAO members informed about proposals from a specified Snapshot space. It tracks proposals and sends alerts directly to your Telegram channel, so members never miss out on voting deadlines. It’s meant to make participation in decentralized governance simpler and more transparent.
+
+I’ve been involved in DAOs and governance for a while now, and there’s one thing that always seems to be an issue: keeping track of proposals. With so many proposals being voted on, it can be easy to miss important ones—especially if you’re not constantly checking. This bot is my solution to that. I wanted to create a simple tool that makes it easier for DAO members to stay engaged and informed. It’s not just about following orders—this is my way of contributing to DAO transparency and efficient governance.
 
 ---
 
